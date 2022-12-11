@@ -1,8 +1,13 @@
 <h1 align="center">Hi 👋, I'm Alexander Voronkov</h1>
+
 ---
+
 <h2 align="center">Fullstack developer from Ukraine</h2>
+
 - 🌱 Acknowledged with such programming & markup languages: `C#, C++, JS, HTML/CSS, XAML, SCSS, SQL, XML`
+
 - 📫 How to reach me **`pubgplayer29112004@gmail.com`**
+
 <h2 align="center">Connect with me:</h3>
 <p align="center">
 &nbsp;
