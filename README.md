@@ -1,8 +1,8 @@
-### **_<p align="center">Hi 👋, I'm Alexander Voronkov!</p> _**
+### **_ <p align="center">Hi 👋, I'm Alexander Voronkov!</p> _**
 
 ---
 
-### **_<p align="center" color=`#0969DA`>Fullstack developer from Ukraine</p>_**
+### **_ <p align="center" color=`#0969DA`>Fullstack developer from Ukraine</p> _**
 
 - 🌱 Acknowledged with such programming & markup languages: `C#, C++, JS, HTML/CSS, XAML, SCSS, SQL, XML`
 
