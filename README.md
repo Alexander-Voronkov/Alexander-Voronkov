@@ -1,11 +1,5 @@
-```
-- This is a red colored line
-@@ This is a purple colored line @@
-+ This is a green colored line
 
-```
-
-**_<p align="center">Hi 👋, I'm Alexander Voronkov</p>_** ```
+```diff - **_<p align="center">Hi 👋, I'm Alexander Voronkov</p>_** ```
 
 ---
 
