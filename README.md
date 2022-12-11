@@ -16,7 +16,10 @@
 <p align="center"> 
 
  <a href="https://ru.wikipedia.org/wiki/C_Sharp" target="_blank" rel="noreferrer">
-  <img src="https://cdn.cdnlogo.com/logos/c/27/c.svg" alt="c#" width="80" height="80"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
+  <img src="https://cdn.cdnlogo.com/logos/c/27/c.svg" alt="c#" width="80" height="80"/> 
+ </a> 
+ 
+ <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="80" height="80"/>
 </a> 
  
@@ -45,7 +48,7 @@
 </a> 
  
 <a href="https://ru.wikipedia.org/wiki/SQL_Server_Management_Studio" target="_blank" rel="noreferrer"> 
-  <img src="https://www.ubackup.com/screenshot/en/others/ssms/smss-logo.png" alt="ssms" style="background-color:white" width="80" height="80"/> 
+  <img src="https://www.edureka.co/blog/wp-content/uploads/2019/10/logo.png" alt="ssms" style="background-color:white" width="80" height="80"/> 
 </a> 
  
 <a href="https://ru.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer"> 
