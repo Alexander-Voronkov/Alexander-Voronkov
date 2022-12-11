@@ -6,14 +6,14 @@
 - 📫 How to reach me `pubgplayer29112004@gmail.com`
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left" style="display:flex; justify-content:space-around">
 <a href="https://www.linkedin.com/in/alexander-voronkov-08919a212/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Александр Воронков" height="80" width="80" /></a>
 <a href="https://www.instagram.com/alxvrnkv/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alxvrnkv" height="80" width="80" /></a>
 <a href="https://discord.gg/adema#1655" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="adema#1655" height="80" width="80" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
-<p align="center"> 
+<p align="center" style="display:flex; justify-content:space-around"> 
 
  <a href="" target="_blank" rel="noreferrer">
   <img src="https://cdn.cdnlogo.com/logos/c/27/c.svg" alt="c#" height="80"/> 
