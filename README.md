@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning `C#, JS`
 
-- 📫 How to reach me `**pubgplayer29112004@gmail.com**`
+- 📫 How to reach me `pubgplayer29112004@gmail.com`
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -56,11 +56,11 @@
 </a> 
  
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="80" height="80"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" height="80"/> 
 </a> 
  
 <a href="https://ru.wikipedia.org/wiki/Windows_Presentation_Foundation" target="_blank" rel="noreferrer"> 
-  <img src="https://files.virgool.io/upload/users/73758/posts/h00jjlau5epu/su6tl3vi8qct.png" style="background-color:white" alt="wpf" width="80" height="80"/>
+  <img src="https://www.ambient-it.net/wp-content/uploads/2016/04/wpf-logo-175.png" style="background-color:white" alt="wpf" height="80"/>
 </a> 
 
 <a href="https://ru.wikipedia.org/wiki/C%2B%2B" target="_blank" rel="noreferrer">
@@ -69,5 +69,5 @@
  
 </p>
 
-<p>
+<p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexander-voronkov&show_icons=true&locale=en&layout=compact" alt="stats" /></p>
