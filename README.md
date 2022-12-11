@@ -32,7 +32,7 @@
 </a> 
  
 <a href="" target="_blank" rel="noreferrer">
-  <img src="https://static.javatpoint.com/tutorial/entity-framework/images/entity-framework-tutorial.png" alt="entityado" height="80"/> 
+  <img src="https://www.onmsft.com/wp-content/uploads/2022/02/Entity-Framework-Core-Logo.jpg" alt="entityado" height="80"/> 
 </a> 
  
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
