@@ -106,5 +106,5 @@
 ---
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexander-voronkov&show_icons=true&locale=en&layout=compact" alt="stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexander-voronkov&show_icons=true&locale=en&layout=compact&theme=dracula" alt="stats" />
 </p>
