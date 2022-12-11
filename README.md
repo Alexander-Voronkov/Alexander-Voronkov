@@ -23,7 +23,7 @@
 </a>
 &nbsp;
 <a href="https://t.me/adema_deft" target="blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png?20220101141644" height="80" alt="tg"/>
+  <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/telegram-logo.png" height="80" alt="tg"/>
 </a>
 &nbsp;
 </p>
