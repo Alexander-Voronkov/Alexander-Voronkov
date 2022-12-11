@@ -57,28 +57,12 @@
   <img src="https://cdn.cdnlogo.com/logos/c/27/c.svg" alt="c#" height="80"/> 
 </a> 
  &nbsp;
-<a href="" target="_blank" rel="noreferrer">
-  <img src="https://www.cmarix.com/blog/wp-content/uploads/2016/03/xEntity-Framework.png.pagespeed.ic.xKHrv3Vte7.png" alt="entityado" height="80"/> 
-</a> 
- &nbsp;
-<a href="" target="_blank" rel="noreferrer"> 
-  <img style="background-color:white" src="https://www.kindpng.com/picc/m/403-4036315_microsoft-sql-server-logo-sql-server-logo-svg.png" alt="sqlserver" height="80"/> 
-</a>
- &nbsp;
-<a href="" target="_blank" rel="noreferrer"> 
-  <img src="https://www.edureka.co/blog/wp-content/uploads/2019/10/logo.png" alt="ssms" height="80"/> 
-</a> 
- &nbsp;
 <a href="" target="_blank" rel="noreferrer"> 
   <img src="https://seeklogo.com/images/A/azure-sql-database-logo-D7A32C9CD9-seeklogo.com.png" alt="sql" height="80"/> 
 </a> 
  &nbsp;
 <a href="" target="_blank" rel="noreferrer"> 
   <img src="https://www.ambient-it.net/wp-content/uploads/2016/04/wpf-logo-175.png" alt="wpf" height="80"/>
-</a> 
- &nbsp;
-<a href="" target="_blank" rel="noreferrer"> 
-  <img src="https://tukuz.com/wp-content/uploads/2020/08/winform-medical-engineering-srl-logo-vector.png" alt="winforms" height="80"/>
 </a> 
  &nbsp;
 <a href="" target="_blank" rel="noreferrer">
