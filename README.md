@@ -88,6 +88,11 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop"     height="80"/>
 </a> 
  &nbsp;
+<a href="" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/2060px-Visual_Studio_Icon_2019.svg.png" alt="vs" height="80"/>
+</a> 
+ &nbsp;
+  
 </p>
 
 <p align="center">
