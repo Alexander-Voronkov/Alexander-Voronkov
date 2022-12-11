@@ -1,5 +1,6 @@
-# ```diff + Hi 👋, I'm Alexander Voronkov!```
+### **_ Hi 👋, I'm Alexander Voronkov! _**
 
+---
 
 ### **_<p align="center" color=`#0969DA`>Fullstack developer from Ukraine</p>_**
 
