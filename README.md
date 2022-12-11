@@ -24,7 +24,9 @@
 </a>
 &nbsp;
 </p>
+
 ---
+
 <h3 align="center">Languages, tools and software i use:</h3>
 <p align="center"> 
  &nbsp;
@@ -93,5 +95,9 @@
 </a> 
  &nbsp;  
 </p>
+
+---
+
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexander-voronkov&show_icons=true&locale=en&layout=compact" alt="stats" /></p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexander-voronkov&show_icons=true&locale=en&layout=compact" alt="stats" />
+</p>
