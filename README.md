@@ -1,15 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alexander Voronkov</h1>
-
 ---
-
 <h2 align="center">Fullstack developer from Ukraine</h2>
-
 - 🌱 Acknowledged with such programming & markup languages: `C#, C++, JS, HTML/CSS, XAML, SCSS, SQL, XML`
-
 - 📫 How to reach me **`pubgplayer29112004@gmail.com`**
-
 <h2 align="center">Connect with me:</h3>
-
 <p align="center">
 &nbsp;
 <a href="https://www.linkedin.com/in/alexander-voronkov-08919a212/" target="blank">
@@ -25,15 +19,12 @@
 </a>
 &nbsp;
 </p>
-
 ---
-
 <h3 align="center">Languages, tools and software i use:</h3>
-
 <p align="center"> 
  &nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"         alt="javascript" height="80"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="80"/> 
 </a> 
  &nbsp;
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
@@ -95,9 +86,7 @@
 <a href="" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" height="80"/>
 </a> 
- &nbsp;
-  
+ &nbsp;  
 </p>
-
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexander-voronkov&show_icons=true&locale=en&layout=compact" alt="stats" /></p>
