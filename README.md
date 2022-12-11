@@ -1,8 +1,8 @@
-### **_<p align="center">Hi 👋, I'm Alexander Voronkov!</p>_**
+### **_<p align="left">Hi 👋, I'm Alexander Voronkov!</p>_**
 
 ---
 
-### **_<p align="center">Fullstack developer from Ukraine</p>_**
+### **_<p align="left">Fullstack developer from Ukraine</p>_**
 
 ---
 
@@ -10,8 +10,8 @@
 
 - 📫 How to reach me: **pubgplayer29112004@gmail.com**
 
-### **_<p align="center">Contact me:</p>_**
-<p align="center">
+### **_<p align="left">Contact me:</p>_**
+<p align="left">
 &nbsp;
 <a href="https://t.me/adema_deft" target="blank">
   <img align="center" src="https://cdn.freebiesupply.com/logos/thumbs/2x/telegram-logo.png" height="80" alt="tg"/>
@@ -33,9 +33,9 @@
 
 ---
 
-### **_<p align="center">Languages, tools and software i use:</p>_**
+### **_<p align="left">Languages, tools and software i use:</p>_**
 
-<p align="center"> 
+<p align="left"> 
  &nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="80"/> 
@@ -105,6 +105,6 @@
 
 ---
 
-<p align="center">
+<p align="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexander-voronkov&show_icons=true&locale=en&layout=compact&theme=dracula" alt="stats" />
 </p>
