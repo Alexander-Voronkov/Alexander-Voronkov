@@ -17,8 +17,13 @@
 <a href="https://discord.gg/adema#1655" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="adema#1655" height="80" width="80" /></a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center" style="display:flex; justify-content:space-around"> 
+---
+
+<h3 align="center">Languages, tools and sowtware i use:</h3>
+
+---
+
+<p align="center"> 
 
  <a href="" target="_blank" rel="noreferrer">
   <img src="https://cdn.cdnlogo.com/logos/c/27/c.svg" alt="c#" height="80"/> 
@@ -45,15 +50,15 @@
 </a> 
  
 <a href="" target="_blank" rel="noreferrer"> 
-  <img style="background-color:white" src="https://www.kindpng.com/picc/m/403-4036315_microsoft-sql-server-logo-sql-server-logo-svg.png" style="background-color:white" alt="sqlserver" height="80"/> 
+  <img style="background-color:white" src="https://www.kindpng.com/picc/m/403-4036315_microsoft-sql-server-logo-sql-server-logo-svg.png" alt="sqlserver" height="80"/> 
 </a>
  
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop"height="80"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" height="80"/>
 </a> 
  
 <a href="" target="_blank" rel="noreferrer"> 
-  <img src="https://www.edureka.co/blog/wp-content/uploads/2019/10/logo.png" alt="ssms" style="background-color:white" height="80"/> 
+  <img src="https://www.edureka.co/blog/wp-content/uploads/2019/10/logo.png" alt="ssms" height="80"/> 
 </a> 
  
 <a href="" target="_blank" rel="noreferrer"> 
