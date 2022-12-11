@@ -51,7 +51,11 @@
  &nbsp;
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" height="50"/> 
-</a> 
+</a>
+  &nbsp;
+<a href="https://sass-lang.com" target="_blank" rel="noreferrer">  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" height="50" alt="babel"/>
+</a>
  &nbsp;
 <a href="" target="_blank" rel="noreferrer">
   <img src="https://cdn.cdnlogo.com/logos/c/27/c.svg" alt="c#" height="50"/> 
