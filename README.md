@@ -36,7 +36,7 @@
 </a> 
  
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="80" height="80"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="80"/> 
 </a> 
  
 <a href="" target="_blank" rel="noreferrer"> 
@@ -44,15 +44,15 @@
 </a>
  
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="80" height="80"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop"height="80"/>
 </a> 
  
 <a href="" target="_blank" rel="noreferrer"> 
-  <img src="https://www.edureka.co/blog/wp-content/uploads/2019/10/logo.png" alt="ssms" style="background-color:white" width="80" height="80"/> 
+  <img src="https://www.edureka.co/blog/wp-content/uploads/2019/10/logo.png" alt="ssms" style="background-color:white" height="80"/> 
 </a> 
  
 <a href="" target="_blank" rel="noreferrer"> 
-  <img src="https://seeklogo.com/images/A/azure-sql-database-logo-D7A32C9CD9-seeklogo.com.png" alt="sql" width="80" height="80"/> 
+  <img src="https://seeklogo.com/images/A/azure-sql-database-logo-D7A32C9CD9-seeklogo.com.png" alt="sql" height="80"/> 
 </a> 
  
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
