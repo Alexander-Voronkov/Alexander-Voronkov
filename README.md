@@ -3,7 +3,14 @@
 
 - 🌱 I’m currently learning `C#, JS`
 
-- 📫 How to reach me **pubgplayer29112004@gmail.com**
+- 📫 How to reach me `**pubgplayer29112004@gmail.com**`
+
+<style>
+  *
+  {
+    margin:10px;
+  }
+  </style>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
