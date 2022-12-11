@@ -8,7 +8,7 @@
 
 - 📫 How to reach me: **pubgplayer29112004@gmail.com**
 
-### **_<p align="center">Contact me:</p>_**
+### **_<p align="center">Contact me:</p>_** ###
 <p align="center">
 <a href="https://www.linkedin.com/in/alexander-voronkov-08919a212/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Александр Воронков" height="80"/> 
