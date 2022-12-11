@@ -11,15 +11,15 @@
 ### **_<p align="center">Contact me:</p>_**
 <p align="center">
 <a href="https://t.me/adema_deft" target="blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png?20220101141644" height="160" alt="tg"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png?20220101141644" height="80" alt="tg"/>
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/alexander-voronkov-08919a212/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Александр Воронков" height="160"/> 
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Александр Воронков" height="80"/> 
 </a>
 &nbsp;
 <a href="https://www.instagram.com/alxvrnkv/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alxvrnkv" height="160"/>
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alxvrnkv" height="80"/>
 </a>
 &nbsp;
 <a href="https://discord.gg/adema#1655" target="blank">
