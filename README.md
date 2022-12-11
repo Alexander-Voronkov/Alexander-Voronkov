@@ -15,31 +15,31 @@
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
 
- <a href="https://ru.wikipedia.org/wiki/C_Sharp" target="_blank" rel="noreferrer">
-  <img src="https://cdn.cdnlogo.com/logos/c/27/c.svg" alt="c#" width="80" height="80"/> 
+ <a href="" target="_blank" rel="noreferrer">
+  <img src="https://cdn.cdnlogo.com/logos/c/27/c.svg" alt="c#" height="80"/> 
  </a> 
  
  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="80" height="80"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" height="80"/>
 </a> 
  
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="80" height="80"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" height="80"/> 
 </a> 
  
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="80" height="80"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="80"/> 
 </a> 
  
-<a href="https://ru.wikipedia.org/wiki/ADO.NET_Entity_Framework" target="_blank" rel="noreferrer">
-  <img src="https://vistadb.com/assets/images/icon-ms.svg" alt="entityado" width="80" height="80"/> 
+<a href="" target="_blank" rel="noreferrer">
+  <img src="https://static.javatpoint.com/tutorial/entity-framework/images/entity-framework-tutorial.png" alt="entityado" height="80"/> 
 </a> 
  
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="80" height="80"/> 
 </a> 
  
-<a href="https://ru.wikipedia.org/wiki/Microsoft_SQL_Server" target="_blank" rel="noreferrer"> 
+<a href="" target="_blank" rel="noreferrer"> 
   <img style="background-color:white" src="https://www.kindpng.com/picc/m/403-4036315_microsoft-sql-server-logo-sql-server-logo-svg.png" style="background-color:white" alt="sqlserver" height="80"/> 
 </a>
  
@@ -47,11 +47,11 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="80" height="80"/>
 </a> 
  
-<a href="https://ru.wikipedia.org/wiki/SQL_Server_Management_Studio" target="_blank" rel="noreferrer"> 
+<a href="" target="_blank" rel="noreferrer"> 
   <img src="https://www.edureka.co/blog/wp-content/uploads/2019/10/logo.png" alt="ssms" style="background-color:white" width="80" height="80"/> 
 </a> 
  
-<a href="https://ru.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer"> 
+<a href="" target="_blank" rel="noreferrer"> 
   <img src="https://seeklogo.com/images/A/azure-sql-database-logo-D7A32C9CD9-seeklogo.com.png" alt="sql" width="80" height="80"/> 
 </a> 
  
@@ -59,12 +59,12 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" height="80"/> 
 </a> 
  
-<a href="https://ru.wikipedia.org/wiki/Windows_Presentation_Foundation" target="_blank" rel="noreferrer"> 
+<a href="" target="_blank" rel="noreferrer"> 
   <img src="https://www.ambient-it.net/wp-content/uploads/2016/04/wpf-logo-175.png" style="background-color:white" alt="wpf" height="80"/>
 </a> 
 
-<a href="https://ru.wikipedia.org/wiki/C%2B%2B" target="_blank" rel="noreferrer">
-  <img width="80" height="80" alt="cpp" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png">
+<a href="" target="_blank" rel="noreferrer">
+  <img height="80" alt="cpp" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png">
 </a>
  
 </p>
