@@ -73,7 +73,11 @@
 </a> 
  &nbsp;
 <a href="" target="_blank" rel="noreferrer"> 
-  <img src="https://www.ambient-it.net/wp-content/uploads/2016/04/wpf-logo-175.png" style="background-color:white" alt="wpf" height="80"/>
+  <img src="https://www.ambient-it.net/wp-content/uploads/2016/04/wpf-logo-175.png" alt="wpf" height="80"/>
+</a> 
+ &nbsp;
+<a href="" target="_blank" rel="noreferrer"> 
+  <img src="https://tukuz.com/wp-content/uploads/2020/08/winform-medical-engineering-srl-logo-vector.png" alt="winforms" height="80"/>
 </a> 
  &nbsp;
 <a href="" target="_blank" rel="noreferrer">
