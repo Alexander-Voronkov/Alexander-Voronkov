@@ -92,7 +92,10 @@
 <a href="" target="_blank" rel="noreferrer">
   <img src="https://img.icons8.com/color/480/microsoft-sql-server.png" height="50" alt="server" />
 </a>
- 
+   &nbsp;
+<a href="" target="_blank" rel="noreferrer">
+  <img src="https://www.ubackup.com/screenshot/en/others/ssms/smss-logo.png" height="50" alt="server" />
+</a> 
 </p>
 
 ---
