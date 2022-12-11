@@ -1,4 +1,4 @@
-### **_<p align="center">Hi 👋, I'm Alexander Voronkov!</p>_**
+### ```diff -Hi 👋, I'm Alexander Voronkov!```
 
 
 ### **_<p align="center">Fullstack developer from Ukraine</p>_**
