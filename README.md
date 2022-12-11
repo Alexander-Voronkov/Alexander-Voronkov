@@ -10,7 +10,6 @@
 
 ### **_<p align="center">Contact me:</p>_**
 <p align="center">
-&nbsp;
 <a href="" target="blank">
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/telegram-icon.png" height="80" alt="tg">
 </a>
@@ -20,11 +19,11 @@
 </a>
 &nbsp;
 <a href="https://www.instagram.com/alxvrnkv/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alxvrnkv" height="80" width="80" />
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alxvrnkv" height="80"/>
 </a>
 &nbsp;
 <a href="https://discord.gg/adema#1655" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="adema#1655" height="80" width="80" />
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="adema#1655" height="80"/>
 </a>
 &nbsp;
 </p>
