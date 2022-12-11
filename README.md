@@ -2,13 +2,13 @@
 
 ---
 
-<p align="center">Fullstack developer from Ukraine</p>
+***<p align="center">Fullstack developer from Ukraine</p>***
 
 - 🌱 Acknowledged with such programming & markup languages: `C#, C++, JS, HTML/CSS, XAML, SCSS, SQL, XML`
 
 - 📫 How to reach me **`pubgplayer29112004@gmail.com`**
 
-<p align="center">Connect with me:</p>
+***<p align="center">Contact me:</p>***
 <p align="center">
 &nbsp;
 <a href="https://www.linkedin.com/in/alexander-voronkov-08919a212/" target="blank">
@@ -27,7 +27,7 @@
 
 ---
 
-<p align="center">Languages, tools and software i use:</p>
+***<p align="center">Languages, tools and software i use:</p>***
 
 <p align="center"> 
  &nbsp;
