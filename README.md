@@ -53,23 +53,23 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" height="50"/> 
 </a>
   &nbsp;
-<a href="https://sass-lang.com" target="_blank" rel="noreferrer">  
+<a href="https://babeljs.io/" target="_blank" rel="noreferrer">  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" height="50" alt="babel"/>
 </a>
  &nbsp;
-<a href="" target="_blank" rel="noreferrer">
+<a href="https://www.w3schools.com/cs/index.php" target="_blank" rel="noreferrer">
   <img src="https://cdn.cdnlogo.com/logos/c/27/c.svg" alt="c#" height="50"/> 
 </a> 
  &nbsp;
-<a href="" target="_blank" rel="noreferrer"> 
+<a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer"> 
   <img src="https://seeklogo.com/images/A/azure-sql-database-logo-D7A32C9CD9-seeklogo.com.png" alt="sql" height="50"/> 
 </a> 
  &nbsp;
-<a href="" target="_blank" rel="noreferrer"> 
+<a href="https://wpf-tutorial.com/" target="_blank" rel="noreferrer"> 
   <img src="https://www.ambient-it.net/wp-content/uploads/2016/04/wpf-logo-175.png" alt="wpf" height="50"/>
 </a> 
  &nbsp;
-<a href="" target="_blank" rel="noreferrer">
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
   <img height="50" alt="cpp" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png">
 </a>
  &nbsp;
@@ -77,25 +77,21 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" height="50"/>
 </a> 
  &nbsp;
-<a href="" target="_blank" rel="noreferrer">
+<a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/2060px-Visual_Studio_Icon_2019.svg.png" alt="vs" height="50"/>
 </a> 
  &nbsp;
-<a href="" target="_blank" rel="noreferrer">
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" height="50"/>
 </a>
   &nbsp;
-<a href="" target="_blank" rel="noreferrer">
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" height="50" alt="git" />
 </a>
    &nbsp;
-<a href="" target="_blank" rel="noreferrer">
+<a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank" rel="noreferrer">
   <img src="https://img.icons8.com/color/480/microsoft-sql-server.png" height="50" alt="server" />
 </a>
-   &nbsp;
-<a href="" target="_blank" rel="noreferrer">
-  <img src="https://thebroodle.com/wp-content/uploads/2022/09/Microsoft-SQL-Server-Management-Console-Logo-Icon.webp" height="50" alt="server" />
-</a> 
 </p>
 
 ---
