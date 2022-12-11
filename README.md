@@ -1,4 +1,4 @@
-### **_<a align="left">Hi 👋, I'm Alexander Voronkov!</a><img align="center" src="http://www.clker.com/cliparts/W/F/A/6/I/o/right-arrow-hi.png" height="80"><a align="right">Fullstack developer from Ukraine</a>_**
+### **_<a align="left">Hi 👋, I'm Alexander Voronkov!</a>&nbsp;&nbsp;&nbsp;<img align="center" src="http://www.clker.com/cliparts/W/F/A/6/I/o/right-arrow-hi.png" height="80">&nbsp;&nbsp;&nbsp;<a align="right">Fullstack developer from Ukraine</a>_**
 
 ---
 
