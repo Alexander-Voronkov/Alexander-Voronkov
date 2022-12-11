@@ -90,7 +90,7 @@
 </a>
    &nbsp;
 <a href="" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="50" alt="server" />
+  <img src="https://img.icons8.com/color/480/microsoft-sql-server.png" height="50" alt="server" />
 </a>
  
 </p>
