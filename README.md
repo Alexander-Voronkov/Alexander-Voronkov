@@ -1,14 +1,14 @@
-***<p align="center">Hi 👋, I'm Alexander Voronkov</p>***
+**_<p align="center">Hi 👋, I'm Alexander Voronkov</p>_**
 
 ---
 
-***<p align="center">Fullstack developer from Ukraine</p>***
+**_<p align="center">Fullstack developer from Ukraine</p>_**
 
 - 🌱 Acknowledged with such programming & markup languages: `C#, C++, JS, HTML/CSS, XAML, SCSS, SQL, XML`
 
 - 📫 How to reach me **`pubgplayer29112004@gmail.com`**
 
-***<p align="center">Contact me:</p>***
+**_<p align="center">Contact me:</p>_**
 <p align="center">
 &nbsp;
 <a href="https://www.linkedin.com/in/alexander-voronkov-08919a212/" target="blank">
@@ -27,7 +27,7 @@
 
 ---
 
-***<p align="center">Languages, tools and software i use:</p>***
+**_<p align="center">Languages, tools and software i use:</p>_**
 
 <p align="center"> 
  &nbsp;
