@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Alexander Voronkov</h1>
+<p font-size="15" align="center">Hi 👋, I'm Alexander Voronkov</p>
 
 ---
 
-<h2 align="center">Fullstack developer from Ukraine</h2>
+<p align="center">Fullstack developer from Ukraine</h2>
 
 - 🌱 Acknowledged with such programming & markup languages: `C#, C++, JS, HTML/CSS, XAML, SCSS, SQL, XML`
 
