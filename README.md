@@ -4,7 +4,7 @@
 
 <h3 align="center">Fullstack developer from Ukraine</h3>
 
-- 🌱 I’m currently learning `C#, JS`
+- 🌱 Acknowledged with such programming & markup languages: `C#, C++, JS, HTML/CSS, SCSS, SQL`
 
 - 📫 How to reach me `pubgplayer29112004@gmail.com`
 
@@ -48,6 +48,10 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" height="80"/>
 </a> 
  &nbsp;
+<a href="https://sass-lang.com" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" height="80"/> 
+</a> 
+ &nbsp;
 <a href="" target="_blank" rel="noreferrer">
   <img src="https://cdn.cdnlogo.com/logos/c/27/c.svg" alt="c#" height="80"/> 
 </a> 
@@ -66,10 +70,6 @@
  &nbsp;
 <a href="" target="_blank" rel="noreferrer"> 
   <img src="https://seeklogo.com/images/A/azure-sql-database-logo-D7A32C9CD9-seeklogo.com.png" alt="sql" height="80"/> 
-</a> 
- &nbsp;
-<a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" height="80"/> 
 </a> 
  &nbsp;
 <a href="" target="_blank" rel="noreferrer"> 
