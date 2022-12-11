@@ -94,7 +94,7 @@
 </a>
    &nbsp;
 <a href="" target="_blank" rel="noreferrer">
-  <img src="https://www.ubackup.com/screenshot/en/others/ssms/smss-logo.png" height="50" alt="server" />
+  <img src="https://thebroodle.com/wp-content/uploads/2022/09/Microsoft-SQL-Server-Management-Console-Logo-Icon.webp" height="50" alt="server" />
 </a> 
 </p>
 
