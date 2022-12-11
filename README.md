@@ -10,7 +10,7 @@
 
 ### **_<p align="center">Contact me:</p>_**
 <p align="center">
-<a href="" target="blank">
+<a href="https://t.me/adema_deft" target="blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png?20220101141644" height="80" alt="tg"/>
 </a>
 &nbsp;
