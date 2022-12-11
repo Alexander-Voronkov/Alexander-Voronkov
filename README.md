@@ -4,6 +4,8 @@
 
 ### **_ <p align="center">Fullstack developer from Ukraine</p> _**
 
+---
+
 - 🌱 Acknowledged with such programming & markup languages: `C#, C++, JS, HTML/CSS, XAML, SCSS, SQL, XML`
 
 - 📫 How to reach me: **pubgplayer29112004@gmail.com**
