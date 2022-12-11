@@ -12,7 +12,7 @@
 <p align="center">
 &nbsp;
 <a href="" target="blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" height="80">
+  <img src="https://download.logo.wine/logo/Telegram_(software)/Telegram_(software)-Logo.wine.png" height="80" alt="tg">
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/alexander-voronkov-08919a212/" target="blank">
