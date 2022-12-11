@@ -88,7 +88,7 @@
 <a href="" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" height="50" alt="git" />
 </a>
-  
+  <i class="devicon-microsoftsqlserver-plain-wordmark"></i>
 </p>
 
 ---
