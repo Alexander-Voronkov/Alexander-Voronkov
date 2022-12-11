@@ -4,7 +4,7 @@
 
 <h3 align="center">Fullstack developer from Ukraine</h3>
 
-- 🌱 Acknowledged with such programming & markup languages: `C#, C++, JS, HTML/CSS, SCSS, SQL`
+- 🌱 Acknowledged with such programming & markup languages: `C#, C++, JS, HTML/CSS, XAML, SCSS, SQL, XML`
 
 - 📫 How to reach me `pubgplayer29112004@gmail.com`
 
@@ -28,7 +28,7 @@
 
 ---
 
-<h3 align="center">Languages, tools and sowtware i use:</h3>
+<h3 align="center">Languages, tools and software i use:</h3>
 
 <p align="center"> 
  &nbsp;
