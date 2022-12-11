@@ -10,6 +10,11 @@
 
 ### **_<p align="center">Contact me:</p>_**
 <p align="center">
+&nbsp;
+<a href="https://t.me/adema_deft" target="blank">
+  <img align="center" src="https://cdn.freebiesupply.com/logos/thumbs/2x/telegram-logo.png" height="80" alt="tg"/>
+</a>
+&nbsp;
 <a href="https://www.linkedin.com/in/alexander-voronkov-08919a212/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Александр Воронков" height="80"/> 
 </a>
@@ -20,10 +25,6 @@
 &nbsp;
 <a href="https://discord.gg/adema#1655" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="adema#1655" height="80"/>
-</a>
-&nbsp;
-<a href="https://t.me/adema_deft" target="blank">
-  <img align="center" src="https://cdn.freebiesupply.com/logos/thumbs/2x/telegram-logo.png" height="80" alt="tg"/>
 </a>
 &nbsp;
 </p>
