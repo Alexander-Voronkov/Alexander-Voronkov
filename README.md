@@ -37,7 +37,7 @@
 </a> 
  
 <a href="https://ru.wikipedia.org/wiki/Microsoft_SQL_Server" target="_blank" rel="noreferrer"> 
-  <img style="background-color:white" src="https://www.kindpng.com/picc/m/403-4036315_microsoft-sql-server-logo-sql-server-logo-svg.png" style="background-color:white" alt="sqlserver" width="80" height="80"/> 
+  <img style="background-color:white" src="https://www.kindpng.com/picc/m/403-4036315_microsoft-sql-server-logo-sql-server-logo-svg.png" style="background-color:white" alt="sqlserver" height="80"/> 
 </a>
  
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
