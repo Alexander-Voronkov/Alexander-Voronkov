@@ -1,7 +1,7 @@
 # ```diff + Hi 👋, I'm Alexander Voronkov!```
 
 
-### **_<p align="center" color="`#0969DA`">Fullstack developer from Ukraine</p>_**
+### **_<p align="center" color=`#0969DA`>Fullstack developer from Ukraine</p>_**
 
 - 🌱 Acknowledged with such programming & markup languages: `C#, C++, JS, HTML/CSS, XAML, SCSS, SQL, XML`
 
