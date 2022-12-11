@@ -1,9 +1,4 @@
-
-```diff 
-
-- Hi 👋, I'm Alexander Voronkov!
-
-```
+<p align="center">Hi 👋, I'm Alexander Voronkov!</p>
 
 ---
 
