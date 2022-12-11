@@ -4,8 +4,6 @@
 
 <h3 align="center">Fullstack developer from Ukraine</h3>
 
----
-
 - 🌱 I’m currently learning `C#, JS`
 
 - 📫 How to reach me `pubgplayer29112004@gmail.com`
@@ -20,8 +18,6 @@
 ---
 
 <h3 align="center">Languages, tools and sowtware i use:</h3>
-
----
 
 <p align="center"> 
 
