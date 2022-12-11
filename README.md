@@ -6,7 +6,7 @@
 
 - 🌱 Acknowledged with such programming & markup languages: `C#, C++, JS, HTML/CSS, XAML, SCSS, SQL, XML`
 
-- 📫 How to reach me **`pubgplayer29112004@gmail.com`**
+- 📫 How to reach me **pubgplayer29112004@gmail.com**
 
 ### **_<p align="center">Contact me:</p>_**
 <p align="center">
