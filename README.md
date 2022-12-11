@@ -1,14 +1,14 @@
-<p font-size="15" align="center">Hi 👋, I'm Alexander Voronkov</p>
+***<p align="center">Hi 👋, I'm Alexander Voronkov</p>***
 
 ---
 
-<p align="center">Fullstack developer from Ukraine</h2>
+<p align="center">Fullstack developer from Ukraine</p>
 
 - 🌱 Acknowledged with such programming & markup languages: `C#, C++, JS, HTML/CSS, XAML, SCSS, SQL, XML`
 
 - 📫 How to reach me **`pubgplayer29112004@gmail.com`**
 
-<h2 align="center">Connect with me:</h3>
+<p align="center">Connect with me:</p>
 <p align="center">
 &nbsp;
 <a href="https://www.linkedin.com/in/alexander-voronkov-08919a212/" target="blank">
@@ -27,7 +27,8 @@
 
 ---
 
-<h3 align="center">Languages, tools and software i use:</h3>
+<p align="center">Languages, tools and software i use:</p>
+
 <p align="center"> 
  &nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
