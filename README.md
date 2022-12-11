@@ -22,6 +22,10 @@
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="adema#1655" height="80"/>
 </a>
 &nbsp;
+<a href="https://t.me/adema_deft" target="blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png?20220101141644" height="80" alt="tg"/>
+</a>
+&nbsp;
 </p>
 
 ---
