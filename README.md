@@ -32,7 +32,7 @@
 </a> 
  
 <a href="" target="_blank" rel="noreferrer">
-  <img src="https://www.euvic.com/wp-content/uploads/2021/05/10-dot-net-technologies.png" alt="entityado" height="80"/> 
+  <img src="https://www.cmarix.com/blog/wp-content/uploads/2016/03/xEntity-Framework.png.pagespeed.ic.xKHrv3Vte7.png" alt="entityado" height="80"/> 
 </a> 
  
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
