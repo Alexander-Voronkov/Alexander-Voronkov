@@ -66,7 +66,7 @@
 </a> 
  &nbsp;
  <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank" rel="noreferrer"> 
-  <img src="https://image.pngaaa.com/37/5414037-middle.png" alt="asp" height="50"/> 
+  <img src="https://learnosmart.com/Content/images/courses/asp-net-core.png" alt="asp" height="50"/> 
 </a> 
  &nbsp;
 <a href="https://wpf-tutorial.com/" target="_blank" rel="noreferrer"> 
