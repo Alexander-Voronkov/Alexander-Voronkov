@@ -140,7 +140,7 @@
 &nbsp;
 
 <a href="https://min.io/" target="_blank" rel="noreferrer">
-  <img src="https://www.outsystems.com/Forge_BL/rest/ComponentThumbnail/GetURL_ComponentThumbnail?ProjectImageId=45580" height="65" alt="minio" />   
+  <img src="https://miro.medium.com/v2/1*KQyachTTd_FXWyHAUzyZzg.png" height="65" alt="minio" />   
 </a>
 &nbsp;
 
