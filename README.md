@@ -188,26 +188,6 @@
 </a>
  &nbsp; 
 
-<a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="65" alt="java"/> 
-</a> 
- &nbsp;
-
- <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" height="65" alt="javaspring"/> 
-</a> 
- &nbsp;
-
-<a href="https://www.php.net/manual/en/intro-whatis.php" target="_blank" rel="noreferrer"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" height="65"/> 
-</a> 
-&nbsp;
-
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" alt="phplaravel" height="65"/> 
-</a> 
-&nbsp;
-
 <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer"> 
   <img src="https://seeklogo.com/images/A/azure-sql-database-logo-D7A32C9CD9-seeklogo.com.png" alt="sql" height="65"/> 
 </a> 
