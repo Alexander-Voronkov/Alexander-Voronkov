@@ -1,4 +1,4 @@
-### **_<a align="left">Hi 👋, I'm Alexander Voronkov!</a>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;<a align="right">Fullstack developer from Ukraine</a>_**
+### **_<a align="left">Hi 👋, I'm Oleksandr Voronkov!</a>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;<a align="right">Fullstack developer from Ukraine</a>_**
 
 ---
 
